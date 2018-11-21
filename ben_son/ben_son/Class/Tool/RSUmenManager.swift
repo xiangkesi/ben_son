@@ -9,18 +9,18 @@
 import UIKit
 import MessageUI
 
-private let wechatAppKey = "wxa555bfbb36ce04f1"
-private let wechatAppSecret = "c9b210c6667c0d307c2a84063156916b"
+private let wechatAppKey = ""
+private let wechatAppSecret = ""
 private let wechatRedirectURL = "http://www.benson-car.com"
 
 
-private let qqAppkey = "1105771386"
-private let qqAppSecret = "QAt9xQNCBZXzxQhH"
+private let qqAppkey = ""
+private let qqAppSecret = ""
 private let qqRedirectURL = "http://www.benson-car.com"
 
 
-private let sinaAppKey = "3848794926"
-private let sinaAppSecret = "ca20643a4974db5779463ad19ff45d68"
+private let sinaAppKey = ""
+private let sinaAppSecret = ""
 private let sinaRedirectURL = "http://www.benson-car.com"
 
 enum  PlatformType: Int{
@@ -59,7 +59,7 @@ class RSUmenManager: NSObject {
     @objc class func confitUShareSettings() {
         
         UMSocialGlobal.shareInstance().isUsingHttpsWhenShareContent = false
-            UMConfigure.initWithAppkey("584e57e3f29d986fac000749", channel: nil)
+            UMConfigure.initWithAppkey("", channel: nil)
             UMConfigure.setLogEnabled(true)
         configUSharePlatforms()
     }

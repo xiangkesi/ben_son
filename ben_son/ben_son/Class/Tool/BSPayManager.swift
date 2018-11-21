@@ -42,7 +42,7 @@ class BSPayManager: NSObject {
     private var pay_result:((_ pay_code: PayCode) -> ())?
 
     func registAppid() {
-        WXApi.registerApp("wxa555bfbb36ce04f1", enableMTA: false)
+        WXApi.registerApp("", enableMTA: false)
     }
     //MARK: --------微信支付
     func wxPay(pay_param: WhchatPayModel,
