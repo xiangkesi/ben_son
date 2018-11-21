@@ -1,0 +1,143 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlipaySDK-iOS (15.5.5)
+  - Differentiator (3.1.0)
+  - FDFullscreenPopGesture (1.1)
+  - FLAnimatedImage (1.0.12)
+  - FSPagerView (0.8.1)
+  - JCore (1.2.5)
+  - JPush (3.1.1.1):
+    - JCore (~> 1.2.5)
+  - Kingfisher (4.9.0)
+  - LTMorphingLabel (0.5.8)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (11.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - ObjectMapper (3.3.0)
+  - Result (3.2.4)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - SKPhotoBrowser (6.0.0)
+  - TPKeyboardAvoiding (1.3.2)
+  - UMCAnalytics (5.5.2):
+    - UMCCommon
+  - UMCCommon (1.5.3)
+  - UMCCommonLog (1.0.0)
+  - UMCShare/Core (6.9.5):
+    - UMCCommon
+  - UMCShare/Social/Email (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedQQ (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - WechatOpenSDK (1.8.3)
+  - YYCache (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AlipaySDK-iOS (~> 15.5.5)
+  - FDFullscreenPopGesture (~> 1.1)
+  - FLAnimatedImage (~> 1.0.12)
+  - FSPagerView (~> 0.8.1)
+  - JPush (~> 3.1.0)
+  - Kingfisher (~> 4.9.0)
+  - LTMorphingLabel (~> 0.5.8)
+  - MBProgressHUD (~> 1.1.0)
+  - MJRefresh (~> 3.1.15.3)
+  - Moya/RxSwift
+  - ObjectMapper (~> 3.3.0)
+  - RxCocoa (~> 4.3.0)
+  - RxDataSources (~> 3.1.0)
+  - RxSwift (~> 4.3.0)
+  - SKPhotoBrowser (~> 6.0.0)
+  - TPKeyboardAvoiding (~> 1.3.2)
+  - UMCAnalytics
+  - UMCCommon
+  - UMCCommonLog
+  - UMCShare/Social/Email
+  - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - WechatOpenSDK (~> 1.8.2)
+  - YYCache (~> 1.0.4)
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlipaySDK-iOS
+    - Differentiator
+    - FDFullscreenPopGesture
+    - FLAnimatedImage
+    - FSPagerView
+    - JCore
+    - JPush
+    - Kingfisher
+    - LTMorphingLabel
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - ObjectMapper
+    - Result
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SKPhotoBrowser
+    - TPKeyboardAvoiding
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCShare
+    - WechatOpenSDK
+    - YYCache
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlipaySDK-iOS: 7b700342e71cb3b626603ce96f9d2fb158acbcfb
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FSPagerView: 4e865526acc0b0e3077e2abb29b8d10a9f395476
+  JCore: 14706de2640b25fb77dbd02332696491407f37c9
+  JPush: 25dd9013fbe106082c14f9f30a82364ee98852fb
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  LTMorphingLabel: 8adaba524476098ed307626d0bc42b7f8fadb7e0
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  SKPhotoBrowser: 76eb862685761707b5745fde7762757966565e07
+  TPKeyboardAvoiding: cb69d5ddbe90ce0170e4bc2db1e5e41d4a3ad9a4
+  UMCAnalytics: 6654fd3c8201ff6da5c86a3ae29cd5c8436d3b7b
+  UMCCommon: 016af43c0f769feb1ae1861d65aaf2b23b89c9c7
+  UMCCommonLog: 05a2d5de21858e3d870551562cff405c1366d244
+  UMCShare: 552b29753f1b4da87b51d96545ed19e6263df397
+  WechatOpenSDK: 3117412f8aafde4758cac1e8d20b93c67cafcfef
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 220a8639eac9e75212ec2499baa51ad58c609198
+
+COCOAPODS: 1.5.3
